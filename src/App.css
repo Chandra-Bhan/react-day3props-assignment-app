@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Regborder{
+  border: 2px black ridge;  
+  margin-left:600px;
+  margin-right: 700px;
+  padding-left: 30px;
+}
